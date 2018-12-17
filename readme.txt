@@ -1,4 +1,4 @@
-Buils a blog
+Built a blog
 credible comments, code structure, analytics, adherence to coding practices, logical syste design, (db normalization, code security, templating, scalability), user tracking logging, 
 
 4 level of users, i.e.
